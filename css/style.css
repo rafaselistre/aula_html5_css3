@@ -1,0 +1,38 @@
+body {
+    background:#641E16; color: rgb(252, 243, 207);
+    margin-left: 40px;
+}
+
+header {
+    margin-top: 40px;
+}
+
+footer {
+    color: black;
+    font-family: cursive;
+}
+
+h1{
+    color: orange;
+    font-size: 40px;
+}
+
+h2{
+    font-size: 25px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+
+img {
+    margin-bottom: 20px;
+}
+
+.logo {
+    margin-bottom: 10px;
+}
